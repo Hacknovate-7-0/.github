@@ -56,29 +56,6 @@ Through national-level hackathons, research initiatives, and modern infrastructu
 
 ---
 
-## 🏆 Prize Pool
-
-> ⚠️ **Separate prize pools for Online and Offline modes**
-
-<div align="center">
-
-### 🖥️ Online Mode
-
-| 🥇 1st Place | 🥈 2nd Place |
-|:------------:|:------------:|
-| ₹15,000 | ₹8,000 |
-
-### 🏟️ Offline Mode
-
-| 🥇 1st Place | 🥈 2nd Place |
-|:------------:|:------------:|
-| ₹35,000 | ₹25,000 |
-
-### 🌟 Special Awards
-
-| 🌱 Best Beginner | 👩‍💻 All Girls Team |
-|:----------------:|:------------------:|
-| ₹4,000 | ₹4,000 |
 
 </div>
 
@@ -123,11 +100,6 @@ Visit: [hacknovate07.tech/schedule](https://www.hacknovate07.tech/schedule)
 
 📍 **Location:** ABESIT Campus Road, NE 3, near Crossing Republic, Ghaziabad, UP – 201009
 
-| Coordinator | Contact |
-|-------------|---------|
-| Gunabh | [+91 70615 57021](tel:+917061557021) |
-| Akshat Gour | [+91 99713 37999](tel:+919971337999) |
-| Aayush Shukla | [+91 72178 68173](tel:+917217868173) |
 
 </div>
 
