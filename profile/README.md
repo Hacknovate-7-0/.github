@@ -1,6 +1,6 @@
 <div align="center">
 
-![Hacknovate 7.0 Banner](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0a0a,25:1a0000,55:8b0000,80:c0392b,100:e74c3c&text=HACKNOVATE-7.0&fontColor=ffffff&fontAlignY=36&desc=30-Hr%20International%20Hybrid%20Hackathon%20%7C%20ABESIT,%20Ghaziabad&descAlignY=57&animation=twinkling&fontAlign=50&descAlign=50)
+  ![D-COFE](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0a0a0a,25:1a0000,55:8b0000,80:c0392b,100:e74c3c&text=COFE&fontColor=ffffff&fontAlignY=36&desc=Carbon%20Footprint%20Optimization%20Engine&descAlignY=57&animation=twinkling&fontAlign=50&descAlign=50)
 
 [![Website](https://img.shields.io/badge/🌐_Website-hacknovate07.tech-8b0000?style=for-the-badge)](https://www.hacknovate07.tech/)
 [![Register](https://img.shields.io/badge/📝_Register-Devfolio-c0392b?style=for-the-badge)](https://hacknovate07.devfolio.co/)
